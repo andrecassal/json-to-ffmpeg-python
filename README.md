@@ -1,4 +1,4 @@
-# Python implementation of the typescript code from [https://img.shields.io/npm/v/json-to-ffmpeg]
+# Python implementation of the typescript code from https://img.shields.io/npm/v/json-to-ffmpeg
 
 
 # json-to-ffmpeg
